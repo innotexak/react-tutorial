@@ -1,0 +1,6 @@
+.books{
+display:grid;
+grid-template-columns: auto 1fr;
+grid-gap:3rem;
+margin:2rem;
+}
